@@ -54,5 +54,5 @@
         "iomanip": "cpp",
         "sstream": "cpp",
         "cstring": "cpp"
-    }
+    },
 }
